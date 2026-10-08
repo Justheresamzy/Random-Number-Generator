@@ -17,7 +17,7 @@ This website is made with HTML, CSS and javascript and made public using netlify
 
 
 ### How to Access
-To access the website press this link into your browser, it'll take you straight to it. 
+To access the website press this link, it'll take you straight to it:
 - https://randomnumberge.netlify.app/
 
 Thanks for trying it out ☺️
