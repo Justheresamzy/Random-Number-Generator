@@ -7,6 +7,7 @@ There a 3 buttons/Options generate numbers from:
 + 1-100
 
 This website is made with HTML, CSS and javascript and made public using netlify.
+It works well on Tablet/desktop/laptop.
 To go straight to the website press this link : https://randomnumberge.netlify.app/
 
 Thank you ☺️
