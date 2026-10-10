@@ -9,7 +9,7 @@ There a 3 buttons/Options generate numbers from:
 + 1-20
 + 1-100
  + when one of these options are pressed it will generate a number between the range chosen.
-This website is made with HTML, CSS and javascript and made public using netlify.
+This website is made with HTML, CSS and javascript and made public github pages.
 
 
 ### How it looks:
@@ -18,7 +18,7 @@ This website is made with HTML, CSS and javascript and made public using netlify
 
 ### How to Access
 To access the website press this link, it'll take you straight to it:
-- https://randomnumberge.netlify.app/
+- https://justheresamzy.github.io/Random-Number-Generator.io/
 
 Thanks for trying it out ☺️
 
