@@ -1,0 +1,112 @@
+.title {
+    padding-top: 20px;
+    color: white;
+    font-family: Iceland;
+    font-size: 24px;
+    
+}
+
+.bignumber {
+    display: flex;
+    color: white;
+    font-family: Iceland;
+    font-size: 300px;
+    justify-self: center;
+
+}
+
+
+.range {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+    justify-self: center;
+    padding-right: 5px;
+    
+    
+    
+}
+
+
+
+
+.ten {
+    
+    background-color: #FF7E15;
+    color: white;
+    border: none;
+    border-radius: 5px ;
+    height: 81px;
+    width: 309px;
+    font-family: Iceland;
+    font-size: 40px;
+
+}
+
+.ten:hover {
+    
+    transition: 0.2s;
+    background-color: #ffa962;
+    
+}
+
+.ten:active {
+    transition: 0.2s;
+    background-color: #fd801a;
+}
+
+
+
+.twenty {
+    
+    background-color: #FF7E15;
+    color: white;
+    border: none;
+    border-radius: 5px ;
+    height: 81px;
+    width: 309px;
+    font-family: Iceland;
+    font-size: 40px;
+
+}
+
+.twenty:hover {
+    
+    transition: 0.2s;
+    background-color: #ffa962;
+    
+}
+
+.twenty:active {
+    transition: 0.2s;
+    background-color: #fd801a;
+}
+
+
+
+
+.hundred {
+    
+    background-color: #FF7E15;
+    color: white;
+    border: none;
+    border-radius: 5px ;
+    height: 81px;
+    width: 309px;
+    font-family: Iceland;
+    font-size: 40px;
+
+}
+
+.hundred:hover {
+    
+    transition: 0.2s;
+    background-color: #ffa962;
+    
+}
+
+.hundred:active {
+    transition: 0.2s;
+    background-color: #fd801a;
+}
+
